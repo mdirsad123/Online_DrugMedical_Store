@@ -37,6 +37,8 @@ And we have manager login and expert login, can login and add or delete medicine
 Admin login:
 
 (We can also see the header file in all the images with the above mentioned options we can access those
+#DashBoard
+![Screenshot (26)](https://github.com/mdirsad123/Online_DrugMedical_Store/assets/120195325/8a77c89e-8b4a-4b23-b4ad-4453e9128d31)
 
 where ever we are.)
 ![image](https://github.com/nikhil-188/OnlineDrugStore/assets/84719583/fa891ac5-66f0-44ce-b278-6eb118be843c)
